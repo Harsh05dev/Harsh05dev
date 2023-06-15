@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Aspiring High School Graduate | CSE Freshman | Passionate about Technology and Problem-Solving | Driven to Make a Positive Impact 🖤</p>
+<p align="left">Aspiring High School Graduate | CSE Freshman | Tech Enthusiast | Learner 🖤</p>
 
 ###
 <!--
