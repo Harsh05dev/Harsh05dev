@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
- <img src="[![](https://visitcount.itsvg.in/api?id=Harsh05dev&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)" /> 
+ <img src="https://visitcount.itsvg.in/api?id=Harsh05dev&label=Profile%20Views&color=0&icon=1&pretty=true" /> 
 
 </div>
 
