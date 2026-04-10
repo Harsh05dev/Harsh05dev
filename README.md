@@ -1,5 +1,5 @@
 <div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
-<h1 align="center">Hello World! 👋<br>I'm HARSH MEHTA</h1>
+<h1 align="center">Hello World! 👋<br>I'm HARSH</h1>
 
 ###
 
