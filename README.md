@@ -1,102 +1,99 @@
-<div align="center"><img src="https://i.imgur.com/YHbA0nK.gif" height=300></div>
-<h1 align="center">Hello World! 👋<br>I'm HARSH</h1>
+<div align="center">
 
-###
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Harsh+Mehta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Builder" alt="Typing SVG" /></a>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Harsh05dev&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 
+</div>
 
-###
+---
+
+## 🧠 About Me
+
+```yaml
+name: Harsh Mehta
+location: New Jersey, US
+education: BS/MS Computer Science & AI @ NJIT (Class of 2027)
+gpa: 3.91
+current_roles:
+  - AI Training Fellow @ Handshake
+  - CS Lab Assistant @ NJIT
+  - CRLA-Certified Peer Tutor
+  - Program Instructor @ JerseySTEM
+interests: ["AI/ML", "Full Stack Dev", "Table Tennis", "Guitar"]
+```
+
+- 🔭 Currently building ML projects and exploring AI research
+- 🎓 Accepted into NJIT's BS/MS program — pursuing MS in Artificial Intelligence
+- 💼 Training AI models at Handshake as an AI Research Fellow
+- 🏓 Table tennis player & 🎸 guitar enthusiast
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/harsh-mehta-njit/)
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
- <img src="https://visitcount.itsvg.in/api?id=Harsh05dev&label=Profile%20Views&color=0&icon=1&pretty=true" /> 
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,php,mysql&theme=dark" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask,bootstrap,tailwind,tensorflow&theme=dark" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,gcp,mongodb&theme=dark" />
 
 </div>
 
-###
+---
 
-<h2 align="left">About me:</h2>
-
-###
-
-<p align="left">Aspiring High School Graduate | CSE Freshman | Tech Enthusiast | Learner 🖤</p>
-
-###
-<!--
-<h2 align="left">Connect With Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rachitkhurana1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/notnotrachit" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://dev.to/dilutewater" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://discord.gg/hDBm5DSDHy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">My Toolbox</h2>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh05dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh05dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=notnotrachit" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=notnotrachit" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh05dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-###
-
-<h2 align="left">Blogs</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=dilutewater&theme=tokyonight" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh05dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-###
+---
 
--->
+## 🚀 Pinned Projects
+
+<div align="center">
+
+[![ML Flight Delay Predictor](https://github-readme-stats.vercel.app/api/pin/?username=Harsh05dev&repo=flight-delay-predictor&theme=tokyonight&hide_border=true)](https://github.com/Harsh05dev/flight-delay-predictor)
+[![Stock Market Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Harsh05dev&repo=stock-market-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Harsh05dev/stock-market-dashboard)
+
+</div>
+
+> ⚠️ **Note:** Update the repo names above to match your actual repository names. Replace `flight-delay-predictor` and `stock-market-dashboard` with the correct repo slugs.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mehta-njit/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh05dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hm493@njit.edu)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
