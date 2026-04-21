@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Harsh+Mehta+%F0%9F%91%8B;AI+%7C+ML+%7C+Full+Stack+%7C+Builder" alt="Typing SVG" /></a>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Harsh05dev&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Harsh05dev&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" /> -->
 
 </div>
 
@@ -52,7 +52,7 @@ interests: ["AI/ML", "Full Stack Dev", "Table Tennis", "Guitar"]
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh05dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh05dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
@@ -63,7 +63,7 @@ interests: ["AI/ML", "Full Stack Dev", "Table Tennis", "Guitar"]
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh05dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+</div> -->
 
 ---
 
