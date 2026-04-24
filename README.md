@@ -61,7 +61,7 @@ Out of 2,200+ applicants, ~100 participants were selected.
 
 <div align="center">
 
-[![BS/MS Pathway Planner](https://github-readme-stats.vercel.app/api/pin/?username=Harsh05dev&repo=ywcc-bsms-planner&theme=tokyonight&hide_border=true)](https://github.com/Harsh05dev/ywcc-bsms-planner)
+[![BS/MS Pathway Planner](https://img.shields.io/badge/BS%2FMS_Pathway_Planner-Private_Repo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ywcc-bsms-planner.vercel.app)
 [![Snowstorm Flight Delay Predictor](https://github-readme-stats.vercel.app/api/pin/?username=Harsh05dev&repo=snowstorm-flight-delay-predictor&theme=tokyonight&hide_border=true)](https://github.com/Harsh05dev/snowstorm-flight-delay-predictor)
 [![Morgan Stanley Team 8 Grove](https://github-readme-stats.vercel.app/api/pin/?username=Harsh05dev&repo=MorganStanley_Team8_Grove&theme=tokyonight&hide_border=true)](https://github.com/Harsh05dev/MorganStanley_Team8_Grove)
 
