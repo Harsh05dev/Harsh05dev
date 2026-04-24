@@ -34,24 +34,13 @@ interests: ["AI/ML", "Full Stack Dev", "Table Tennis", "Guitar"]
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,java,php,mysql&theme=dark" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,supabase&theme=dark" />
-
-### ML / AI
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-
-### Tools / Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,gcp,mongodb&theme=dark" />
-
-</div>
+| Category | Stack |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,java,php,mysql&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase&theme=dark" /> |
+| **ML / AI** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" /> |
+| **Tools / Platforms** | <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,linux,vscode,gcp,mongodb,figma,notion&theme=dark" /> |
 
 ---
 
